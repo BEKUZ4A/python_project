@@ -1,2 +1,2 @@
 # python_project
-My python project
+My python projects
